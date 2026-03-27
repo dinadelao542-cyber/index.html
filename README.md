@@ -5,38 +5,30 @@
 <meta charset="UTF-8">
 <title>Para ti 💙</title>
 <style>
-html, body {
-    height: 100%;
+body {
     margin: 0;
     padding: 0;
     background: black;
-    overflow: hidden;
-}
-
-body {
-    width: 100vw;
-    height: 100vh;
     color: white;
-    font-family: 'Arial', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    position: relative;
+    font-family: Arial;
+    text-align: center;
 }
-
-.stars, .stars2, .stars3 {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100vw; height: 100vh;
-    background: transparent;
-    display: block;
-    pointer-events: none;
-    z-index: 0;
+h1 {
+    margin-top: 20%;
+    padding: 20px;
+    font-size: 24px;
 }
-.stars {
-    background: url('https://raw.githubusercontent.com/VincentGarreau/particles.js/master/demo/img/stars.png') repeat;
-    animation: moveStars 100s linear infinite;
-    opacity: 0.8;
+</style>
+</head>
+<body>
 
+<h1>
+Te amo muchísimo, mi niño hermoso 💙<br><br>
+Eres mi lugar favorito en este mundo.<br><br>
+Estoy orgullosa de ti y de todo lo que eres.<br><br>
+Siempre estaré para ti.<br><br>
+Te amo infinito 💫
+</h1>
 
+</body>
+</html>
